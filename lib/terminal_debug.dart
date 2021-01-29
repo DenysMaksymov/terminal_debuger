@@ -18,7 +18,7 @@ class TerminalDataSender{
 
   Future sendData()async{
     jsonData = {
-      'time': new DateTime.now(),
+      'time': new DateTime.now().toString(),
       'body': dataForSend,
     };
     try{

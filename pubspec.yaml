@@ -1,8 +1,7 @@
 name: terminal_debug
 description: A new Flutter package.
 version: 0.0.1
-author: Denys Maksymov
-homepage:
+homepage: "http://github.com/DenysMaksymov/terminal_debuger.git"
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
